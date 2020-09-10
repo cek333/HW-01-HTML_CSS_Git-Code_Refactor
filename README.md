@@ -1,5 +1,5 @@
 # HW-01-HTML_CSS_Git-Code_Refactor
-Refactoring the existing HTML/CSS code to achieve the objectives and criteria outlined below.
+Refactoring existing HTML/CSS code to achieve the objectives and criteria outlined below. A link to the refactored and deployed website can be found [here.](https://cek333.github.io/HW-01-HTML_CSS_Git-Code_Refactor/)
 
 ## User Story
 ```
