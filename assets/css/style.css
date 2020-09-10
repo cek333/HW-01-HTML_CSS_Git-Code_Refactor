@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header/navigation styling */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -45,10 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* meeting image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +56,12 @@ p {
     background-position: center;
 }
 
+/* paragraph style in aside/main sections */
+p {
+    font-size: 16px;
+}
+
+/* side bar styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -84,6 +88,7 @@ aside section img {
     max-width: 150px;
 }
 
+/* main content styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -117,6 +122,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
